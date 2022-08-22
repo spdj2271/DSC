@@ -1,1 +1,0 @@
-from config.defaults import _C as cfg
