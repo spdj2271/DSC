@@ -16,7 +16,7 @@ python main.py
 
 3)  Launch an experiment on other dataset, e.g., 'FASHION', 'MNIST', 'MNIST_test', 'FASHION_test', 'FRGC', 'COIL20'. 
 ```
-python main.py dataset=FASHION
+python main.py --dataset=FASHION
 ```
 - Full datasets can be downloaded [**here**](https://drive.google.com/drive/folders/1bLVnwJxx8uN8jujq7MJl1Nydd6FaCmFT?usp=sharing). 
 
